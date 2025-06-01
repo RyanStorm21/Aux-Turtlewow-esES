@@ -155,7 +155,6 @@ En resumen, obtienes un valor de mercado bastante preciso tanto para mercados mu
 
 ## Contribuciones y Errores
 
-Si encuentras algún error en la traducción, erratas o tienes sugerencias para mejorarla, por favor.
+Si encuentras algún error en la traducción, erratas o tienes sugerencias para mejorarla, por favor. comunicármelas
 ---
 
-*(Este README es una plantilla que combina la información del README original de Aux y las notas de Geojak, todo traducido. Siéntete libre de adaptarlo y añadir más secciones o información que consideres relevante para tu versión traducida. Las imágenes del README original no se pueden incrustar directamente aquí, pero puedes referenciarlas o añadirlas a tu repositorio y enlazarlas).*
