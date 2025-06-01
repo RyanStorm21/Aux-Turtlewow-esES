@@ -7,7 +7,7 @@ Este proyecto de traducción se basa en la versión del addon Aux desarrollada/m
 Aux es reconocido como uno de los addons más avanzados para la casa de subastas en el cliente 1.12 de WoW, ofreciendo características que incluso superan a algunas funcionalidades modernas. Reemplaza completamente la interfaz de la casa de subastas de Blizzard por una propia, más elegante y funcional.
 
 **Nota Importante sobre esta Versión:**
-Toda la interfaz de usuario de esta versión del addon, incluyendo menús, botones, tooltips y mensajes, ha sido traducida al español por `[Tu Nombre/Alias Aquí]`. El objetivo es que los jugadores de habla hispana puedan utilizar todas sus potentes funciones sin la barrera del idioma.
+Toda la interfaz de usuario de esta versión del addon, incluyendo menús, botones, tooltips y mensajes, ha sido traducida al español por `Ryan`. El objetivo es que los jugadores de habla hispana puedan utilizar todas sus potentes funciones sin la barrera del idioma.
 
 ## Características Específicas para Turtle WoW (traducidas de README_Geojak.md)
 
